@@ -124,12 +124,12 @@ SP用のスタイル
     display: block;
   }
 
-  #nav-spa:link {
-    color:	#ffffff;
+  #nav-sp a:link {
+    color: #ffffff;
   }
 
-  #nav-spa:visited {
-    color:	#ffffff;
+  #nav-sp a:visited {
+    color: #ffffff;
   }
 
   #nav-sp a:hover {
@@ -138,7 +138,7 @@ SP用のスタイル
   }
 
   #nav-sp a:active {
-    color:	#ffffff;
+    color: #ffffff;
   }
 
   #nav-sp .menu {
